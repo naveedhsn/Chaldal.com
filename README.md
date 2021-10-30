@@ -1,7 +1,7 @@
 # Manual-Testing-of-Chaldal.com
 Test Case Writing
 
-#Content:
+# Content:
 Manual Testing for web application:
   Manual testing for the registration page 
   Test case writing
